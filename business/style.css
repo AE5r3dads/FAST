@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.neww{
+
+    font-size: 30px;
+    text-align: center;
+}
+
+.webb{
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 777px;
+}
+
+
+.dins{
+    font-size: 17px;
+    text-align: center;
+}
+
+.sssss{
+    color: brown;
+    text-decoration: none;
+}
+
+.sssss:hover{
+    border-bottom: black;
+}

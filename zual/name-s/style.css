@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.zuallogo{
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.navicationbar{
+    height: 721px;
+    width: 300px;
+    background-color: rgb(175, 140, 140);
+    color: rgb(0, 0, 0);
+}
+.homenav{
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    cursor: pointer;
+    color: black;
+}
+
+.friendsnav{
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 49px;
+    cursor: pointer;
+    color: black;
+}
+
+.openchatnav{
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 49px;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+/* scrollstyle */
+::-webkit-scrollbar {
+    width: 1.1rem;
+   }
+   
+  ::-webkit-scrollbar-track {
+    border: 7px solid #232943;
+    box-shadow: inset 0 0 2.5px 2px rgba(0, 0, 0, 0.5);
+    border-radius: 1rem;
+    }
+   
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #E1306C, #1DA1F2);
+    border-radius: 1rem;
+  }
+   
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(270deg, #E1306C, #1DA1F2, #E1306C);
+  }
+   
+  /* for Firefox */
+   html {scrollbar-color: #E1306C #1DA1F2;} 
